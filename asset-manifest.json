@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-scroll-animation/static/css/main.89cd1b8c.chunk.css",
+    "main.js": "/react-scroll-animation/static/js/main.61153e26.chunk.js",
+    "main.js.map": "/react-scroll-animation/static/js/main.61153e26.chunk.js.map",
+    "runtime-main.js": "/react-scroll-animation/static/js/runtime-main.03c0880b.js",
+    "runtime-main.js.map": "/react-scroll-animation/static/js/runtime-main.03c0880b.js.map",
+    "static/js/2.e90f6ff9.chunk.js": "/react-scroll-animation/static/js/2.e90f6ff9.chunk.js",
+    "static/js/2.e90f6ff9.chunk.js.map": "/react-scroll-animation/static/js/2.e90f6ff9.chunk.js.map",
+    "index.html": "/react-scroll-animation/index.html",
+    "precache-manifest.42295834ed672888fa1048b7a5ab3e6c.js": "/react-scroll-animation/precache-manifest.42295834ed672888fa1048b7a5ab3e6c.js",
+    "service-worker.js": "/react-scroll-animation/service-worker.js",
+    "static/css/main.89cd1b8c.chunk.css.map": "/react-scroll-animation/static/css/main.89cd1b8c.chunk.css.map",
+    "static/js/2.e90f6ff9.chunk.js.LICENSE": "/react-scroll-animation/static/js/2.e90f6ff9.chunk.js.LICENSE",
+    "static/media/left.svg": "/react-scroll-animation/static/media/left.9970a637.svg",
+    "static/media/send.svg": "/react-scroll-animation/static/media/send.38268076.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03c0880b.js",
+    "static/js/2.e90f6ff9.chunk.js",
+    "static/css/main.89cd1b8c.chunk.css",
+    "static/js/main.61153e26.chunk.js"
+  ]
+}
